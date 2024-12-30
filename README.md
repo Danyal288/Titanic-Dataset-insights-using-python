@@ -38,4 +38,7 @@ I also draw a coorelation matrix for this to see the coorelation of sets. it is 
 
 2- There is a negative coorelation between survived and Age!.   It means the younger people have more chances of servial in titanic.
 
- 
+
+ Linkedin: https://www.linkedin.com/in/muhammad-danyal-arshad
+
+ gmail: **mdanyalarshad288@gmail.com**
